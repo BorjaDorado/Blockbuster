@@ -1,0 +1,2 @@
+rental_id,rental_date,return_date,last_update,inventory_id,customer_id,staff_id
+1,2022-09-15,2022-09-22,2022-09-15,1,1,1
